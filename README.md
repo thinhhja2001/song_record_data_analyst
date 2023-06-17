@@ -7,4 +7,5 @@ wide_song_data: used for creating wide_song_data_sparse, and the recommendation 
 When updating the Python project, just copy the "song_play_record.csv" and "knn_model.sav" into 
 
 recommenders\collaborative_filtering\dataset for song_play_record.csv
+
 recommenders\collaborative_filtering\model for knn_model.sav
